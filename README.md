@@ -3,15 +3,15 @@
 > A curated list of awesome project boilerplates
 
 - [Awesome Boilerplates](#awesome-boilerplates)
-- [.NET](#.net)
-- [Elixir](#elixir)
-- [GO](#go)
-- [HTML](#html)
-- [Javascript](#javascript)
-- [PHP](#php)
-- [Python](#python)
-- [Ruby](#ruby)
-- [Scala](#scala)
+  - [.NET](#net)
+  - [Elixir](#elixir)
+  - [GO](#go)
+  - [HTML](#html)
+  - [Javascript](#javascript)
+  - [PHP](#php)
+  - [Python](#python)
+  - [Ruby](#ruby)
+  - [Scala](#scala)
 - [Contributing](#contributing)
 
 ## .NET
